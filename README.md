@@ -52,6 +52,7 @@ In terms of our data used, we cite all of our sources (above) and did not requir
 * Geopandas
 * Plotly Express
 * Plotly Graph Objects
+* Cartopy
 
 
 

@@ -73,3 +73,4 @@ In terms of our data used, we cite all of our sources (above) and did not requir
 * Credits/authors of data sources and other information used: 
   * The coordinates for bird migration flyways was taken from https://datazone.birdlife.org/sowb/spotflyway
   * Bird images in the presentation are from gbif.org and wikipedia.org
+  * Presentation theme adapted from SlideNest using a commercial account https://slidenest.com/template/types-of-birds-biology-vibrant-presentation

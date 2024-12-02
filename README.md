@@ -33,7 +33,7 @@ Please use this link: [INSERT DASHBOARD LINK] to view and interact with our plot
 
 Because our data came from public sources, we did not need to ensure we were violating particular privacy acts such as HIPAA. However, it is important to remember that the data we examine in this project would not be possible without the tragic decline in bird populations globally. Because of their dropping populations, changing migration patterns due to climate change and other affecting factors, we are able to use the data we have today. Even though it is exciting to find correlations as data analysts, we keep in mind the greater ecological changes taking place in our world right now. In our presentation conclusion, we review simple steps that our audience can take in order to help preserve our birds and their habitats for many years to come. 
 
-In terms of our data used, we cite all of our sources (above) and did not require any special licenses to obtain the information that we examined in this project. 
+In terms of our data used, we cite all of our sources (above) and did not require any special licenses to obtain the information that we examined in this project. GBIF data is collected as a citizens science project and the data managers were informed of the data being used as user accounts were created for data download. 
 
 ## Breakdown of Tasks
 
@@ -60,10 +60,11 @@ In terms of our data used, we cite all of our sources (above) and did not requir
 * Code for the Wildfire section was developed with help from the following sources: 
     * Google AI response for helping with Choropleth Map, Chat GPT to help with Choropleth Map, Xpert Learning Assistant to help with html file creation for dashboard creation
     * Team member assistance
-
+* Code for bird migration routes was developed using the leaflet exercises completed in the class and chatGPT.
+  
 ## Acknowledgments & References
 
 * [Reserved for credits/authors of data sources and other information used]
-  * [Reserved for additional text]
+  * The coordinates for bird migration flyways was taken from https://datazone.birdlife.org/sowb/spotflyway
   * [Reserved for additional text]
   * [Reserved for additional text]

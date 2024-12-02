@@ -15,7 +15,7 @@
 
 We used the following datasets to help us with our analysis: 
 
-* BirdMap data: gbif.org 
+* BirdMap data: https://www.gbif.org 
 * Endangered Species Data: 
 * Pitangus sulphuratus 2013 data: GBIF.org (28 November 2024) GBIF Occurrence Download https://doi.org/10.15468/dl.n7ry84
 * Pitangus sulphuratus 2017 data: GBIF.org (28 November 2024) GBIF Occurrence Download https://doi.org/10.15468/dl.3qwzkd
@@ -23,7 +23,7 @@ We used the following datasets to help us with our analysis:
 * Brazil fire data: https://www.kaggle.com/datasets/gustavomodelli/forest-fires-in-brazil
 * Brazil Geojson Coordinates: https://www.kaggle.com/datasets/thiagobodruk/brazil-geojson
 * World Country Codes: https://gist.github.com/tadast/8827699
-* Soybean Production Data: 
+* Soybean Production Data: https://fas.usda.gov/data/production/commodity/2222000
 
 ## Usage Information
 

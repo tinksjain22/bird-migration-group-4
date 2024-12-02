@@ -11,7 +11,7 @@
 * Jimmy Lee
 * Jenny Liu
 
-## Dataset Information
+## Dataset Source Information
 
 We used the following datasets to help us with our analysis: 
 
@@ -27,7 +27,7 @@ We used the following datasets to help us with our analysis:
 
 ## Usage Information
 
-Please use this link: [INSERT DASHBOARD LINK] to view and interact with our plots and to view the entire report. This analysis is meant to be viewed section by section. Begin with the overview of bird migratory paths and work your way through the affecting factors of these paths. For the interactive visualizations, use your mouse to hover over maps to get more information on location and bird species. For the animated visualizations, click the play button or select the year you wish to view on the slider bar at the bottom of the map. Finally, we have one leaflet map that plays through the visual one time. If you would like to see the map animated again, please refresh the page. You can also view each of our vizualizations independently by opening the html link in the designated folder above. 
+Please use this link: https://tinksjain22.github.io/bird-migration-group-4/dashboard.html to view and interact with our plots and to view the entire report. This analysis is meant to be viewed section by section. Begin with the overview of bird migratory paths and work your way through the affecting factors of these paths. For the interactive visualizations, use your mouse to hover over maps to get more information on location and bird species. For the animated visualizations, click the play button or select the year you wish to view on the slider bar at the bottom of the map. Finally, we have one leaflet map that plays through the visual one time. If you would like to see the map animated again, please refresh the page. You can also view each of our vizualizations independently by opening the html link in the designated folder above. 
 
 You can view our full presentation here: https://gamma.app/docs/Bird-Migration-Patterns-Affecting-Factors-rn68nxx7vu9qef6?mode=doc. 
 
@@ -57,6 +57,8 @@ In terms of our data used, we cite all of our sources (above) and did not requir
 * Plotly Express
 * Plotly Graph Objects
 * Cartopy
+* Dash 
+* Jupyter Dash
 
 ## Source Code Location
 
@@ -66,9 +68,8 @@ In terms of our data used, we cite all of our sources (above) and did not requir
     * Class activities
 * Code for bird migration routes was developed using the leaflet exercises completed in the class and chatGPT.
   
-## Acknowledgments & References
+## Acknowledgments & Other References
 
 * Credits/authors of data sources and other information used: 
   * The coordinates for bird migration flyways was taken from https://datazone.birdlife.org/sowb/spotflyway
-  * Images in the presentation are from gbif.org and wikipedia.org
-  * Article from the presentation is from the Cornell Daily Sun newspaper
+  * Bird images in the presentation are from gbif.org and wikipedia.org

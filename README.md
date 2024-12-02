@@ -15,13 +15,15 @@
 
 We used the following datasets to help us with our analysis: 
 
-* BirdMap data: gbif.org 
-* Endangered Species Data: 
-* Wildfire Data: https://www.kaggle.com/datasets/imtkaggleteam/wildfires?select=2-+annual-area-burnt-by-wildfires.csv
-* Brazil fire data: https://www.kaggle.com/datasets/gustavomodelli/forest-fires-in-brazil
-* Brazil Geojson Coordinates: https://www.kaggle.com/datasets/thiagobodruk/brazil-geojson
-* World Country Codes: https://gist.github.com/tadast/8827699
-* Soybean Production Data: 
+BirdMap data: gbif.org 
+Endangered Species Data: 
+Pitangus sulphuratus 2013 data: GBIF.org (28 November 2024) GBIF Occurrence Download https://doi.org/10.15468/dl.n7ry84
+Pitangus sulphuratus 2017 data: GBIF.org (28 November 2024) GBIF Occurrence Download https://doi.org/10.15468/dl.3qwzkd
+Wildfire Data: https://www.kaggle.com/datasets/imtkaggleteam/wildfires?select=2-+annual-area-burnt-by-wildfires.csv
+Brazil fire data: https://www.kaggle.com/datasets/gustavomodelli/forest-fires-in-brazil
+Brazil Geojson Coordinates: https://www.kaggle.com/datasets/thiagobodruk/brazil-geojson
+World Country Codes: https://gist.github.com/tadast/8827699
+Soybean Production Data: 
 
 ## Usage Information
 
@@ -44,6 +46,13 @@ In terms of our data used, we cite all of our sources (above) and did not requir
 * Jimmy: Presentation manager and Gamma App developer
 
 * Jenny: Soybean Production data cleaning and mapping
+
+## Libraries Used (not in class)
+* Seaborn
+* Geopandas
+* Plotly Express
+* Plotly Graph Objects
+
 
 
 ## Source Code Location

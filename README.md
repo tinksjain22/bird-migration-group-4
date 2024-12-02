@@ -15,13 +15,13 @@
 
 We used the following datasets to help us with our analysis: 
 
-BirdMap data: gbif.org 
-Endangered Species Data: 
-Wildfire Data: https://www.kaggle.com/datasets/imtkaggleteam/wildfires?select=2-+annual-area-burnt-by-wildfires.csv
-Brazil fire data: https://www.kaggle.com/datasets/gustavomodelli/forest-fires-in-brazil
-Brazil Geojson Coordinates: https://www.kaggle.com/datasets/thiagobodruk/brazil-geojson
-World Country Codes: https://gist.github.com/tadast/8827699
-Soybean Production Data: 
+* BirdMap data: gbif.org 
+* Endangered Species Data: 
+* Wildfire Data: https://www.kaggle.com/datasets/imtkaggleteam/wildfires?select=2-+annual-area-burnt-by-wildfires.csv
+* Brazil fire data: https://www.kaggle.com/datasets/gustavomodelli/forest-fires-in-brazil
+* Brazil Geojson Coordinates: https://www.kaggle.com/datasets/thiagobodruk/brazil-geojson
+* World Country Codes: https://gist.github.com/tadast/8827699
+* Soybean Production Data: 
 
 ## Usage Information
 

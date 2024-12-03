@@ -43,13 +43,13 @@ In terms of our data used, we cite all of our sources (above) and did not requir
 
 * Morgan: Wildfire data cleaning and mapping
 
-* Hardeep: Bird migratory flight paths and Biology Expert
+* Hardeep: Bird migratory flight paths and biology expert
 
-* Tinkle: Engandered Species data cleaning and mapping
+* Tinkle: Endangered species data cleaning and mapping
 
 * Jimmy: Presentation manager and Gamma App developer
 
-* Jenny: Soybean Production data cleaning and mapping
+* Jenny: Soybean production data cleaning and mapping
 
 ## Libraries Used (not used in class)
 * Seaborn
@@ -73,4 +73,5 @@ In terms of our data used, we cite all of our sources (above) and did not requir
 * Credits/authors of data sources and other information used: 
   * The coordinates for bird migration flyways was taken from https://datazone.birdlife.org/sowb/spotflyway
   * Bird images in the presentation are from gbif.org and wikipedia.org
+  * Soybean production reference in presentation https://www.globalforestwatch.org/blog/forest-insights/soy-production-forests-south-america/
   * Presentation theme adapted from SlideNest using a commercial account https://slidenest.com/template/types-of-birds-biology-vibrant-presentation

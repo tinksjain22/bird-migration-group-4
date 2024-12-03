@@ -16,7 +16,7 @@
 We used the following datasets to help us with our analysis: 
 
 * BirdMap data: https://www.gbif.org 
-* Endangered Species Data: 
+* Endangered Species Data: https://www.gbif.org 
 * Pitangus sulphuratus 2013 data: GBIF.org (28 November 2024) GBIF Occurrence Download https://doi.org/10.15468/dl.n7ry84
 * Pitangus sulphuratus 2017 data: GBIF.org (28 November 2024) GBIF Occurrence Download https://doi.org/10.15468/dl.3qwzkd
 * Wildfire Data: https://www.kaggle.com/datasets/imtkaggleteam/wildfires?select=2-+annual-area-burnt-by-wildfires.csv
